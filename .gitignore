@@ -4,3 +4,5 @@ build/
 **/*.egg-info
 **/build
 **/*.ipynb_checkpoints
+tests/
+**/*.DS_Store
