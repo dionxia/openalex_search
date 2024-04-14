@@ -13,5 +13,5 @@ To install `openalex_search`, run the following command in your terminal:
 
 ```bash
 git clone https://github.com/dionxia/openalex_search.git
-cd packageroot 
+cd openalex_search 
 pip install . 
