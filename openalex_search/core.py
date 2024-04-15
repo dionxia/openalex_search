@@ -25,7 +25,8 @@ def rank_publications_by_citation(data):
     )
     return sorted_publications
 
-if __name__ == '__main__':
-    data = fetch_abstracts('machine learning')
-    print(data['results'])
+
+if __name__ == "__main__":
+    data = fetch_abstracts("machine learning")
+    print(data["results"])
     rank_publications_by_citation(data)
